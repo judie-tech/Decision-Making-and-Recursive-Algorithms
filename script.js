@@ -78,5 +78,5 @@ const str = prompt("Enter a string to check if it's a palindrome:");
 if (isPalindrome(str)) {
   console.log(`'${str}' is a palindrome.`);
 } else {
-  console.log(`'${str}' is not a palindrome.`);
+  console.log(`'${str}' not a palindrome.`);
 }
